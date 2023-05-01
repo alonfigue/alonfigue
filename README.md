@@ -7,7 +7,7 @@ Computer Engineering Student
 I've been coding since 2018 where I started the career of Computer Engineering.
 
 *   🌍  I'm based in Venezuela
-*   🖥️  See my portfolio at [alonsofigueroa.ve](http://alonsofigueroa.ve)
+*   🖥️  See my portfolio, [click here](https://alonfigue.github.io/portfolio-gh-pages/)
 *   ✉️  You can contact me at [afigueroajrm@gmail.com](mailto:afigueroajrm@gmail.com)
 
 ### Skills
