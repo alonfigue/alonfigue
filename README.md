@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering Student
 ----------------------------
 
-I've been coding since 2018 where I started the career of Computer Engineering in Venezuela.
+I've been coding since 2018 where I started the career of Computer Engineering.
 
 *   🌍  I'm based in Venezuela
 *   🖥️  See my portfolio at [alonsofigueroa.ve](http://alonsofigueroa.ve)
